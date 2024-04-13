@@ -7,6 +7,12 @@
 
 - [quic协议详解](https://zhuanlan.zhihu.com/p/405387352)
 
+- [STGW 下一代互联网标准传输协议QUIC大规模运营之路](http://www.360doc.com/content/23/1214/09/57935769_1107501079.shtml)
+
+- [Quic - rfc9000](https://datatracker.ietf.org/doc/html/rfc9000)
+
+- [QUIC 协议详解](https://blog.csdn.net/kenkao/article/details/133930854)
+
 
 ![tcp-hand-shake](https://raw.githubusercontent.com/ivanzz1001/protocol_development_learning/master/quic/img/v2-1fb94488942494ec9425ecf6682ed6e1_1440w.avif)
 
