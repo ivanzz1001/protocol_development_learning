@@ -13,6 +13,9 @@
 
 - [QUIC 协议详解](https://blog.csdn.net/kenkao/article/details/133930854)
 
+- [draft-tsvwg-quic-protocol](https://datatracker.ietf.org/doc/html/draft-tsvwg-quic-protocol-02)
+
+- [详解TLS1.3的握手过程](https://blog.csdn.net/weixin_44376670/article/details/116752225)
 
 ![tcp-hand-shake](https://raw.githubusercontent.com/ivanzz1001/protocol_development_learning/master/quic/img/v2-1fb94488942494ec9425ecf6682ed6e1_1440w.avif)
 
