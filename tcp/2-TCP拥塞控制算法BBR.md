@@ -6,6 +6,8 @@
 
 - [TCP拥塞控制：数据包守恒、慢启动、拥塞避免、快重传...](https://blog.csdn.net/weixin_39757893/article/details/118508552)
 
+- [中科大高级计算机网络](https://www.bilibili.com/video/BV1BL4y1J7vh/?p=36&vd_source=2699f104de8828a576fed54818f8cd79)
+
 ## 1. 前言
 
 这是TCP/IP协议栈系列的第三篇文章，之前的一篇面试热点“理解TCP/IP传输层拥塞控制算法”讲述了传统的拥塞控制算法基本原理，今天一起来学习下最新Linux内核中增加的拥塞控制算法：TCP BBR算法。
