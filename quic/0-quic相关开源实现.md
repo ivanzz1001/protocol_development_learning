@@ -11,3 +11,5 @@
 - [QUIC协议开源实现列表](https://zhuanlan.zhihu.com/p/583069719?utm_id=0)
 
 - [quic协议文档](https://datatracker.ietf.org/wg/quic/documents/)
+
+- [谷歌出品!读懂 QUIC 协议:更快、更高效的通信协议](https://developer.aliyun.com/article/1508757)
